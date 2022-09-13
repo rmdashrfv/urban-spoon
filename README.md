@@ -9,3 +9,6 @@ You can add files as arguments to git diff like so;
 
 **You have to press 'q' to get out of this prompt.**
 
+## Git Log
+Shows all of the previous commits. You must also press "q" to get out of
+this. Vim is most likely the best editor there is.
